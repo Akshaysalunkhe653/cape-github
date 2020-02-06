@@ -1,3 +1,7 @@
 Hello World !!
 This is GIT Essentials training session.
+<<<<<<< HEAD
 Some content added..
+=======
+For Capgemini
+>>>>>>> training
